@@ -1,0 +1,124 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+header{
+    background: #1f2937;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 1% 15% 5% 15%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+   
+    list-style: none;
+    display: flex;
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+header section{
+    padding: 5% 0 5% 0;
+    display: flex;
+    align-items: center;
+}
+.headerright{
+    width: 100%;
+}
+.headerleft .bigger{
+    font-size: 2.2em;
+}
+.headerbutton{
+    background: #3882f6;
+    border-radius: 5px;
+    border: 0;
+    padding: 5px 15px 5px 15px;
+    color: white;
+    font-weight: 700;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.containertop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2% 0 2% 0; 
+}
+.informations{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 2%;
+}
+.informationsquare{
+    width:100%;
+    border: 2px solid blue;
+    border-radius: 5px;
+    height: 150px;
+    max-width: 150px;
+}
+.information{
+    width: 150px;
+    text-align: center;
+}
+.containermid{
+    background: purple;
+    display: flex;
+    justify-content: center;
+    padding: 5% 15% 5% 15%;
+    flex-direction: column;
+}
+.quote{
+    font-size: 36px;
+    font-family: italic;
+    color: yellow;
+    font-weight: 300;
+}
+.signature{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
+.containerbottom{
+    padding: 5% 15% 5% 15%;
+}
+.bottombox{
+    color: white;
+    background:green;
+    border-radius: 5px;
+    padding: 5% 15% 5% 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottombutton{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    padding: 5px;
+}
+footer{
+    background: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    height: 111px;
+}
+
+li {
+  padding-left: 20px;
+}
