@@ -91,14 +91,15 @@ header section{
 .signature{
     display: flex;
     justify-content: flex-end;
-    font-weight: bold;
+    font-weight: semibold;
+    color: white;
 }
 .containerbottom{
     padding: 5% 15% 5% 15%;
 }
 .bottombox{
     color: white;
-    background:green;
+    background:#214a9a;
     border-radius: 5px;
     padding: 5% 15% 5% 15%;
     display: flex;
@@ -114,7 +115,7 @@ header section{
     padding: 5px;
 }
 footer{
-    background: yellow;
+    background: #214a9a;
     display: flex;
     align-items: center;
     justify-content: center;
