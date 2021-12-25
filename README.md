@@ -7,4 +7,4 @@
 - and references
 
 
-<img align="center"  width="550px" src="https://github.com/mataraimov/Universe/blob/main/photo1636950241.jpeg" />
+<img align="center"  width="550px" src="https://github.com/mataraimov/Universe/blob/main/photo1639990648-removebg-preview.png" />
