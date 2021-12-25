@@ -11,4 +11,4 @@
 - 
 
 
-<img align="center"  width="550px" src="https://github.com/mataraimov/Universe/blob/main/photo1639990648-removebg-preview.png" />
+<img align="center"  width="550px" src="https://github.com/mataraimov/Universe/blob/main/photo1640429714.jpeg" />
