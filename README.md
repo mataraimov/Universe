@@ -1,6 +1,6 @@
 # University WEB site 
 ## All landing page is about International Ala-Too University 
-## This is final project for CS 204 course at AIU CS detpt.
+## This is final project for CS 203 course at AIU CS department.
 
 ## Requirements 
 - Screenshots
