@@ -4,10 +4,11 @@
 
 ## Requirements 
 - Screenshots
-- University Logo's
+- Github [Link to the ]
+- All app is about Uni , With text , logo and photo
 - Feedback's [Link to video in Google Drive]https://www.youtube.com/watch?v=jR_srstmixo
-- Video tutorial [Link to video in YouTube]https://www.youtube.com/watch?v=jR_srstmixo
-- Tutorial in Youtube [Link to video in YouTube]https://www.youtube.com/watch?v=jR_srstmixo
+- Tutorial [Link to File in Google Drive]https://www.youtube.com/watch?v=jR_srstmixo
+- Presentation video in Youtube [Link to video in YouTube]https://www.youtube.com/watch?v=jR_srstmixo
 - Power Point Presentation [Link to slideshow in Google Drive]https://docs.google.com/presentation/d/1P8rFY-70-gYowjJ2C92JruGbqwtoagqP/edit?usp=sharing&ouid=107799677416587667383&rtpof=true&sd=true
 
 
