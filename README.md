@@ -11,6 +11,6 @@
 - Presentation video in Youtube [Link to video in YouTube]https://youtu.be/1Xkc4BhS7p0
 - Power Point Presentation [Link to slideshow in Google Drive]https://docs.google.com/presentation/d/1P8rFY-70-gYowjJ2C92JruGbqwtoagqP/edit?usp=sharing&ouid=107799677416587667383&rtpof=true&sd=true
 
-
 <img align="center"  width="550px" src="https://github.com/mataraimov/Universe/blob/main/photo1640429714.jpeg" />
 <img align="center"  width="550px" src="https://github.com/mataraimov/Universe/blob/main/photo1640535645.jpeg" />
+<img align="center"  width="550px" src="https://github.com/mataraimov/Universe/blob/main/photo1640535711.jpeg" />
